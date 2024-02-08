@@ -16,7 +16,7 @@ A Python tool for dynamically generating regex patterns from strings and bytes.
 
 To use `RegexGen`, clone this repository or download the source code. No external dependencies are required beyond the Python standard library.
 ```bash
-git clone https://github.com/memoryapi/RegexGen
+git clone (https://github.com/memoryapi/RegexGen/tree/main
 ```
 
 ## Usage
